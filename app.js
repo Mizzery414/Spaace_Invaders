@@ -100,7 +100,7 @@ function moveInvaders() {
   }
 }
 
-invadersId = setInterval(moveInvaders, 600);
+invadersId = setInterval(moveInvaders, 300);
 
 //shooter controls
 function shoot(e) {
